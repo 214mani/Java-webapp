@@ -1,6 +1,10 @@
 Practicing git pull and git fetch 
 Practicing git hub repositiry
+<<<<<<< HEAD
 DSLLFDJFASLDFLASDFLHDFLASFSDLFN
 LFDFLSJDFLKJSDFLJSDF
 DFJKLSJDFLADSKJFLSDFK
 SDFLKSDAJFLKASDJF
+=======
+Practicing Conflicts
+>>>>>>> bf78235baf88bb0076e50cf51e8a0036839f1f29
